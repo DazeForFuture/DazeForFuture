@@ -25,7 +25,7 @@ Crediamo che innovazione e rispetto per il pianeta possano andare di pari passo.
 ---
 
 ## 📂 Progetti in corso
-- [**Sito Web**](#) → Il nostro [sito web](https://github.com/DazeForFuture/SitoDazeForFuture), attualmente in lavorazione.  
+- [**Sito Web**](https://github.com/DazeForFuture/SitoDazeForFuture) → Il nostro sito web, attualmente in lavorazione.  
 - [**Centrale Meteorologica**](#) → Per studiare il cambiamento climatico e la qualita dell'aria, direttamente nella nostra scuola.
 
 👉 Scopri di più nelle nostre [repo](https://github.com/dazeforfuture).
