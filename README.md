@@ -47,7 +47,7 @@ Crediamo che innovazione e rispetto per il pianeta possano andare di pari passo.
   <a href="https://instagram.com/dazeforfuture">
     <img src="https://img.shields.io/badge/Instagram-@dazeforfuture-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.gg/acRaE6y4">
+  <a href="https://discord.gg/FPeF6UKnbF">
     <img src="https://img.shields.io/badge/Discord-https://discord.gg/FPeF6UKnbF-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
